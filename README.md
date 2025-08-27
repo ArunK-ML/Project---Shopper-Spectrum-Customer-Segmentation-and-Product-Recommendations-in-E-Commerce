@@ -1,0 +1,2 @@
+# Project---Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce
+The global e-commerce industry generates vast amounts of transaction data daily, offering valuable insights into customer purchasing behaviors. Analyzing this data is essential for identifying meaningful customer segments and recommending relevant products to enhance customer experience and drive business growth. 
